@@ -1,0 +1,18 @@
+{
+  "name": "react-to-react-native",
+  "version": "1.0.0",
+  "description": "turn react code to react native",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "css",
+    "stylesheet"
+  ],
+  "author": "sit, cmrojas",
+  "license": "ISC"
+}
